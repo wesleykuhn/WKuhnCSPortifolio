@@ -1,0 +1,15 @@
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\bin\Debug\DemonstracaoWinForms.exe.config
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\bin\Debug\DemonstracaoWinForms.exe
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\bin\Debug\DemonstracaoWinForms.pdb
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\obj\Debug\DemonstracaoWinForms.csprojAssemblyReference.cache
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\obj\Debug\DemonstracaoWinForms.FRM_Main.resources
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\obj\Debug\DemonstracaoWinForms.Properties.Resources.resources
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\obj\Debug\DemonstracaoWinForms.csproj.GenerateResource.cache
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\obj\Debug\DemonstracaoWinForms.csproj.CoreCompileInputs.cache
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\obj\Debug\DemonstracaoWinForms.exe
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\obj\Debug\DemonstracaoWinForms.pdb
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\bin\Debug\ClassesOnly.dll
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\bin\Debug\ClassesOnly.pdb
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\DemonstracaoWinForms\obj\Debug\DemonstracaoWinForms.csproj.CopyComplete

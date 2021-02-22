@@ -1,0 +1,9 @@
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\bin\Debug\ClassesOnly.dll
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\bin\Debug\ClassesOnly.pdb
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\obj\Debug\ClassesOnly.csprojAssemblyReference.cache
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\obj\Debug\ClassesOnly.csproj.CoreCompileInputs.cache
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\obj\Debug\ClassesOnly.csproj.CopyComplete
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\obj\Debug\ClassesOnly.dll
+C:\Users\WesleyKNT\source\repos\Projetos\Portifolio\ClassesOnly\obj\Debug\ClassesOnly.pdb
